@@ -11,7 +11,8 @@ namespace AdrianSolution
 
         public static long Sum(long num1, long num2)
         {
-            return num1 + num2;
+            long ans = num1 + num2;
+            return ans;
         }
     }
 }
